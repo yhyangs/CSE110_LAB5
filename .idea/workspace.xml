@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6a144a3-3592-4eeb-80fc-280349921b06" name="Default Changelist" comment="" />
+    <list default="true" id="b6a144a3-3592-4eeb-80fc-280349921b06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CelsiusTest.testCelsiusToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project110" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.CelsiusTest" />
+      <option name="METHOD_NAME" value="testCelsiusToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CelsiusTest" />
+        <item itemvalue="JUnit.CelsiusTest.testCelsiusToString" />
         <item itemvalue="Application.TemperatureConverter" />
       </list>
     </recent_temporary>
@@ -100,7 +122,7 @@
       <updated>1572456799629</updated>
       <workItem from="1572456801303" duration="1527000" />
       <workItem from="1572904038551" duration="209000" />
-      <workItem from="1573061073517" duration="3161000" />
+      <workItem from="1573061073517" duration="4226000" />
     </task>
     <servers />
   </component>
@@ -130,11 +152,6 @@
           <url>file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java</url>
           <line>37</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
